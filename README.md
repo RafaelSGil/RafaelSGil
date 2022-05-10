@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there, I'm Rafael 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSGil&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
